@@ -1,0 +1,61 @@
+body {
+	background: rgb(204, 203, 198);
+}
+
+.navigation {
+	background: linear-gradient(80deg, #000000, #696868);
+	font-size: 16px;
+	padding: 10px 10px;
+
+}
+.navigation a {
+	color: #fefefe;
+	padding: 0 10px;
+	text-decoration: none;
+	
+}
+
+.mainHeader {
+		color: tomato;
+		font-size: 35 px;
+}
+
+.sectionHeader {
+	color: #1460AA;
+	text-decoration: underline;
+	background: rgba(0, 0, 128, 0.2);
+}
+
+
+.weekHeader {
+	color: #c96929;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow:1px 1px rgb(206, 15, 15);
+	
+}
+
+.terminalList{
+	list-style-position: inside;
+	list-style-type: circle;
+	line-height: 1.5;
+	color: yellow;
+
+	
+}
+
+
+
+
+
+
+.terrace {
+	max-width: 50%;
+}
+
+.footer {
+	background: linear-gradient(to bottom, #000000, #696868);
+	color: #f4F3ef;
+	padding: 10px;
+	margin-top: 10px;
+}
