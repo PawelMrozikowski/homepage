@@ -9,10 +9,18 @@ body {
 
 }
 .navigation a {
-	color: #fefefe;
+	
 	padding: 0 10px;
 	text-decoration: none;
 	
+}
+
+.logo {
+	max-width: 10%;
+}
+
+.link {
+	color: #fef6fe;
 }
 
 .mainHeader {
